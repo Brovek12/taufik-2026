@@ -17,8 +17,7 @@ onMounted(() => {
   new Typed('#typed', {
     strings: [
       'Taufik Here ..',
-      'Mid Full Stack Developer',
-      'Build Better Business Software',
+      'Mid Full Stack Dev',
     ],
     typeSpeed: 50,
     backSpeed: 30,
@@ -363,7 +362,7 @@ using Laravel, Vue.js and modern web technologies.
   <!-- WHATSAPP -->
   <div class="tooltip" data-tip="WhatsApp">
     <a
-      href="https://wa.me/6288202141"
+      href="https://wa.me/62882021649441"
       target="_blank"
       class="btn btn-outline flex items-center gap-2"
     >
