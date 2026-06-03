@@ -126,9 +126,7 @@ onMounted(() => {
         Klinik Juanson • Balikpapan
       </div>
 
-      <div class="text-sm mt-1">
-        Managed administrative documents and supported rapid test operations.
-      </div>
+     
     </div>
 
     <hr />
@@ -154,9 +152,6 @@ onMounted(() => {
         Pertamina RU V • Balikpapan
       </div>
 
-      <div class="text-sm mt-1">
-        Assisted network mapping, monitoring and infrastructure simulation using Cisco, PRTG and GNS3.
-      </div>
     </div>
 
     <hr />
@@ -181,10 +176,6 @@ onMounted(() => {
       <div class="text-sm opacity-70">
         Ganehsa Operation • Balikpapan
       </div>
-
-      <div class="text-sm mt-1">
-        Provided technical support, reporting automation and digital content management.
-      </div>
     </div>
 
     <hr />
@@ -208,10 +199,6 @@ onMounted(() => {
 
       <div class="text-sm opacity-70">
         PT Pengelola Limbah Kalimantan Timur (PLKK)
-      </div>
-
-      <div class="text-sm mt-1">
-        Developing ERP systems, optimizing databases, improving architecture and delivering scalable business applications.
       </div>
     </div>
   </li>
