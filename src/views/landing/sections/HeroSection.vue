@@ -185,7 +185,7 @@ onMounted(() => {
     <hr />
 
     <div class="timeline-start text-sm font-semibold">
-      Sept 2024 - Present
+      Sept 2024 - Aug 2026
     </div>
 
     <div class="timeline-middle">
@@ -199,6 +199,27 @@ onMounted(() => {
 
       <div class="text-sm opacity-70">
         PT Pengelola Limbah Kalimantan Timur (PLKK)
+      </div>
+    </div>
+  </li>
+        <li>
+    <hr />
+
+    <div class="timeline-start text-sm font-semibold">
+      Aug 2026 - Present
+    </div>
+
+    <div class="timeline-middle">
+      <BriefcaseBusiness class="w-5 h-5 text-primary" />
+    </div>
+
+    <div class="timeline-end timeline-box text-left">
+      <div class="font-bold">
+        IMS Officer & Programmer
+      </div>
+
+      <div class="text-sm opacity-70">
+        PT Bukaka Teknik Utama tbk Balikpapan Branch
       </div>
     </div>
   </li>
@@ -235,13 +256,21 @@ onMounted(() => {
       </h3>
 
       <div class="space-y-4">
+        <div class="border-l-4 border-primary pl-4">
+          <h4 class="font-semibold">
+            📱 Contract Management Bukaka
+          </h4>
+          <p class="text-sm opacity-70">
+            Aug 2026 – Present
+          </p>
+        </div>
 
         <div class="border-l-4 border-primary pl-4">
           <h4 class="font-semibold">
             🏥 Klinik Mirabell ERP
           </h4>
           <p class="text-sm opacity-70">
-            Sept 2024 – Present
+            Sept 2024 – Aug 2026
           </p>
         </div>
 
@@ -250,7 +279,7 @@ onMounted(() => {
             ♻️ PLKK ERP
           </h4>
           <p class="text-sm opacity-70">
-            Sept 2024 – Present
+            Sept 2024 – Aug 2026
           </p>
         </div>
 
